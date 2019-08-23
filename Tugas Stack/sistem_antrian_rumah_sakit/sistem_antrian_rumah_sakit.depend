@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1496934218 source:d:\d4 teknik informatika phb\semester 2\algoritma & struktur data 2\tugas stack\sistem_antrian_rumah_sakit\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+

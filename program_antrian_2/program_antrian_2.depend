@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1496668853 source:d:\d4 teknik informatika phb\semester 2\algoritma & struktur data 2\program_antrian_2\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+

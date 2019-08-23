@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1497305966 source:d:\d4 teknik informatika phb\semester 2\algoritma & struktur data 2\uas_program_antrian\main.cpp
+	<iostream>
+	<sstream>
+	<string>
+	<stdlib.h>
+	<windows.h>
+

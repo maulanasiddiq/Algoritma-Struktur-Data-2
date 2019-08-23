@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1496749399 source:c:\users\kiaw\documents\project uas 1\main.cpp
+	<iostream>
+	<string.h>
+	<conio.h>
+	<stdlib.h>
+
+1496799983 source:d:\d4 teknik informatika phb\semester 2\algoritma & struktur data 2\project uas 1\main.cpp
+	<iostream>
+	<string.h>
+	<conio.h>
+	<stdlib.h>
+

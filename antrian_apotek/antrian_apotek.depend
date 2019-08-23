@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1496951314 source:d:\d4 teknik informatika phb\semester 2\algoritma & struktur data 2\antrian_apotek\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1496717030 source:d:\d4 teknik informatika phb\semester 2\algoritma & struktur data 2\tugas stack\stack_pembalik_kalimat\main.cpp
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<iostream>
+
